@@ -5,6 +5,7 @@ Programa que traduzca del lenguaje alfanumérico a código morse
 ## Integrantes del equipo
 
 Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+-Tomás Herrera Bach, @tomasherrerabach
 
 ## Objetivos del trabajo
 
