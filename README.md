@@ -1,6 +1,6 @@
-# Título del trabajo
+# Traductor código Morse
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Programa que traduzca del lenguaje alfanumérico a código morse
 
 ## Integrantes del equipo
 
