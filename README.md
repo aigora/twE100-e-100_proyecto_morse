@@ -11,4 +11,5 @@ Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Lista de los objetivos que se persiguen con el trabajo propuesto:
+-Inicialmente el objetivo principal será crear un programa que analice caracter a caracter un vector de símbolos alfanuméricos (incluyendo letras, números, espacios, puntos, comas y otros caracteres ortográficos) escrito por el 
